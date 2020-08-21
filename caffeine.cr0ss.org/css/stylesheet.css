@@ -1,0 +1,26 @@
+body {
+  background-color: #1D1D21;
+}
+
+h1 {
+  color: #F6E4AD;
+  margin-left: 20px;
+  font-size: 40px;
+}
+
+h2 {
+  color: #F6E4AD;
+  margin-left: 24px;
+  font-size: 30px;
+}
+
+p {
+  color: #FFFFFF;
+  margin-left: 28px;
+  font-size: 16px;
+}
+
+div {
+  background-color: #29292B;
+  padding: 20px 0px;
+}
