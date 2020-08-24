@@ -16,11 +16,11 @@
 <div>
 <h2>Except of Sources</h2>
 <p>
-  The Half Life of Caffeine in healthy adults is about 5.7 hours <a href="http://www.ncbi.nlm.nih.gov/pubmed/7361718?dopt=Abstract">[1]</a>. "However, at higher doses (e.g. 250–500mg single dose), the clearance of caffeine is significantly reduced and its elimination half-life is prolonged, indicating non-linearity" <a href="https://www.researchgate.net/publication/13850835_Dose-Dependent_Pharmacokinetics_and_Psychomotor_Effects_of_Caffeine_in_Humans">[2]</a>.
+  The Half Life of Caffeine in healthy adults is about 5.7 hours <a href="https://www.ncbi.nlm.nih.gov/pubmed/7361718?dopt=Abstract">[1]</a>. "However, at higher doses (e.g. 250–500mg single dose), the clearance of caffeine is significantly reduced and its elimination half-life is prolonged, indicating non-linearity" <a href="https://www.researchgate.net/publication/13850835_Dose-Dependent_Pharmacokinetics_and_Psychomotor_Effects_of_Caffeine_in_Humans">[2]</a>.
 </p>
 
 <p>
-  "The t1/2 (beta) was significantly prolonged in women on OCS (10.7 +/- 3.0 hr vs. 6.2 +/- 1.6)" <a href="http://www.ncbi.nlm.nih.gov/pubmed/7359014">[3]</a> unrelated to weight or height of female participants.
+  "The t1/2 (beta) was significantly prolonged in women on OCS (10.7 +/- 3.0 hr vs. 6.2 +/- 1.6)" <a href="https://www.ncbi.nlm.nih.gov/pubmed/7359014">[3]</a> unrelated to weight or height of female participants.
 </p>
 </div>
 </body>
